@@ -1,0 +1,166 @@
+.head {
+    margin-top: 30px;
+
+}
+
+.head>a {
+    font-size: 18PX;
+    padding: 15px;
+    text-decoration: none;
+    color: rgb(139, 135, 135) ;
+
+}
+
+.head>a:hover {
+    color: rgb(49, 47, 47);
+    
+    
+}
+
+.arrow {
+    color: white;
+    background-color: rgb(71, 69, 69);
+    border-radius: 10px;
+    font-size: 15px;
+    padding: 0px 1px 0px 1px;
+    font-weight: bold;
+}
+
+.img {
+    margin-top: 60px;
+}
+.images1 {
+    
+    display: flex;
+    padding: 20px;
+    
+    
+  }
+.images2 {
+    margin-top: -88px;
+  display: flex;
+  padding: 20px;
+  margin-bottom: -50px;
+  
+}
+
+.img2{
+    margin-top: 10px;
+
+    margin-right: 10px;
+
+    margin-bottom: 30px;
+
+    margin-left: 20px;
+}
+
+.img2>h6{
+    
+    margin-top: 5px;
+    margin-right: 10px;
+
+    margin-bottom: 30px;
+
+    margin-left: 20px;
+}
+.card1{
+    margin-top: 50px;
+    margin-left: 15px;
+}
+.card2{
+    margin-left: 360px;
+    margin-top: -376px;
+}
+.card3{
+    margin-left: 700px;
+    margin-top: -376px;
+}
+.card4{
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.card5{
+    margin-left: 360px;
+    margin-top: -376px;
+}
+.card6{
+    margin-left: 700px;
+    margin-top: -376px;
+}
+.card7{
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.card8{
+    margin-left: 360px;
+    margin-top: -376px;
+}
+.box{
+   
+border: 1px solid rgba(248, 247, 247, 0.76);
+margin-left: 393px;
+margin-top: -198px;
+margin-right: 355px;
+background-color: rgba(248, 247, 247, 0.76);
+padding-bottom: 6px;
+
+}
+.box>p{
+    font-size: 22px;
+    background-color: rgba(248, 247, 247, 0.76);
+}
+.para{
+    margin-left: 670px;
+    margin-top: -168px;
+    font-weight: bold;
+    border: 1px solid rgba(248, 247, 247, 0.76);
+    background-color: rgba(248, 247, 247, 0.76);
+    padding: 15px 20px 118px 20px;
+    background-color: rgba(248, 247, 247, 0.76);
+}
+ .div{
+    display: flex;
+    background-color:  rgba(248, 247, 247, 0.76);
+    
+    margin-top: 20px;
+    
+
+    
+}
+.div>.div1>h3{
+   margin-top: 20px;
+   margin-left: -50px;
+    background-color: rgba(248, 247, 247, 0.76);
+}
+.div>.div1>li{
+    font-size: 20px;
+   font-weight: bold;
+   list-style-type: none;
+   color: rgba(29, 28, 28, 0.76);
+   margin-left: -50px;
+}
+
+
+      
+.div>.div2{
+   
+    margin-top: 20px;
+    position: absolute;
+    
+}
+.div>.div2>h6{
+    font-size: 18px;
+    margin-top: 5px;
+    margin-left: 0px;
+    position: absolute;
+    right:60px;
+}
+.div>.div2>.bo{
+    margin-top: 45px;
+    padding: 3px;
+    position: relative;
+    left:670px;
+
+    
+}
+     

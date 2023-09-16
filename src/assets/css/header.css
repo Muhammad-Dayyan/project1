@@ -1,0 +1,79 @@
+nav>a{
+    text-decoration: none;
+    
+    color:  rgb(49, 47, 47);
+   font-size: 13px;
+   font-family: sans-serif;
+   padding: 10px;
+   
+
+}
+.top{
+    padding: 0px;
+    margin-bottom: 0px;
+    
+}
+.top1{
+    margin-top: -20px;
+    margin-left: 10px;
+}
+.top2{
+    margin: 19px;
+    padding: 10px 190px 13px 10px;
+    border: 2px solid black;
+    position: relative;
+    bottom: 13px;
+    border-radius: 5px;
+    text-align: left;
+    font-size: 15px;
+    
+}
+.top3{
+    font-weight: lighter;
+    padding: 10px 300px 13px 15px;
+    margin: 19px;
+    position: relative;
+    bottom: 13px;
+    border: 2px solid rgb(1, 26, 1);
+    border-radius: 5px;
+    text-align: left;
+    font-size: 15px;
+    position: relative;
+    right: 22px;
+    }
+nav>.icon{
+    font-size: 23px;
+    position: relative;
+    right: 75px;
+    bottom: -2px;
+    background-color: rgb(1, 26, 1);
+    color: white;
+   padding: 11px 7px 12px 2px;
+   font-weight: bold;
+}
+nav{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    
+}
+nav>.head{
+    display: flex;
+    flex-direction: row-reverse;
+    
+}
+.log{
+    font-size: 18px;
+    position: absolute;
+    top: 70px;
+    right: 58px;
+    
+}
+.lo{
+    position: absolute;
+    font-size: 17px;
+    top: 58px;
+    right: -10px;
+    border: 4PX solid black;
+    border-radius: 25PX;
+    padding: 8PX 8PX 8PX 8PX;
+    border-color: yellow lightseagreen  blue lightseagreen;
+}
